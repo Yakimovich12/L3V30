@@ -1,7 +1,11 @@
 package bsuir.vmsis.kpp;
+
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
+
+import bsuir.vmsis.kpp.UserFunctions.User;
+import bsuir.vmsis.kpp.video.Video;
 
 import java.util.List;
 import java.util.*;
